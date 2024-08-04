@@ -1,0 +1,12 @@
+annotated-types @ file:///croot/annotated-types_1709542908624/work
+anyio @ file:///croot/anyio_1706220167567/work
+click @ file:///croot/click_1698129812380/work
+fastapi @ file:///croot/fastapi_1693295406697/work
+h11 @ file:///croot/h11_1706652277403/work
+idna @ file:///croot/idna_1714398848350/work
+pydantic @ file:///croot/pydantic_1709577974639/work
+pydantic_core @ file:///croot/pydantic-core_1709573961665/work
+sniffio @ file:///croot/sniffio_1705431295498/work
+starlette @ file:///croot/starlette-recipe_1692980413034/work
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work
+uvicorn @ file:///work/ci_py311_2/uvicorn-split_1679340461072/work
